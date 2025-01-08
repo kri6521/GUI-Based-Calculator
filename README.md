@@ -4,8 +4,8 @@ This is a simple calculator built using Python's Tkinter library. It provides a 
 
 ## Features
 - Graphical Interface: The application uses Tkinter to create a user-friendly interface.
-Basic Operations:
-Addition (+)
+- Basic Operations:
+-- Addition (+)
 Subtraction (-)
 Multiplication (*)
 Division (/)
