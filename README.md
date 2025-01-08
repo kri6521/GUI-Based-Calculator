@@ -12,7 +12,7 @@ This is a simple calculator built using Python's Tkinter library. It provides a 
 - Clear button to reset the current input.
 - Result display with rounded values for division.
 
-## 🛠️ Prerequisites
+## 🛠️ Requirements
 
 - **Python 3.x**  
   Ensure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/).
@@ -21,3 +21,16 @@ This is a simple calculator built using Python's Tkinter library. It provides a 
   Tkinter comes pre-installed with Python in most distributions. If it's not installed, you can install it using:  
   ```bash
   sudo apt-get install python3-tk  # For Linux
+
+## 🚀 How it works
+### Start the Application:
+- Run the Python script: python calculator.py.
+### Input Numbers:
+- Use the numeric buttons (0-9) to input numbers.
+### Perform Operations:
+- Click an operator button (+, -, *, /) after entering the first number.
+- Enter the second number, then press the = button to calculate the result.
+### Clear Input:
+- Press the C button to clear the current input and start fresh.
+### Error Handling:
+- Division by zero will result in an "Error" message displayed on the screen.
