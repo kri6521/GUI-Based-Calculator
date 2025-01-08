@@ -3,7 +3,7 @@
 This is a simple calculator built using Python's Tkinter library. It provides a graphical user interface to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
-Graphical Interface: The application uses Tkinter to create a user-friendly interface.
+- Graphical Interface: The application uses Tkinter to create a user-friendly interface.
 Basic Operations:
 Addition (+)
 Subtraction (-)
