@@ -2,15 +2,15 @@
 ## Overview
 This is a simple calculator built using Python's Tkinter library. It provides a graphical user interface to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## Features
-- Graphical Interface: The application uses Tkinter to create a user-friendly interface.
-- Basic Operations:
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-- Error Handling: Handles division by zero gracefully, displaying an "Error" message.
-- Clear Functionality: Clear the current input using the C button.
+## ✨ Features
+- **Graphical User Interface (GUI)** with buttons for easy input.
+- Supports basic operations:
+  - **➕ Addition (`+`)**
+  - **➖ Subtraction (`-`)**
+  - **✖️ Multiplication (`*`)**
+  - **➗ Division (`/`)** (Handles division by zero gracefully.)
+- Clear button to reset the current input.
+- Result display with rounded values for division.
 Prerequisites
 Python 3.x
 Tkinter library (comes pre-installed with Python in most distributions)
