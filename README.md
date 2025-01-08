@@ -5,12 +5,12 @@ This is a simple calculator built using Python's Tkinter library. It provides a 
 ## Features
 - Graphical Interface: The application uses Tkinter to create a user-friendly interface.
 - Basic Operations:
--- Addition (+)
+Addition (+)
 Subtraction (-)
 Multiplication (*)
 Division (/)
-Error Handling: Handles division by zero gracefully, displaying an "Error" message.
-Clear Functionality: Clear the current input using the C button.
+- Error Handling: Handles division by zero gracefully, displaying an "Error" message.
+- Clear Functionality: Clear the current input using the C button.
 Prerequisites
 Python 3.x
 Tkinter library (comes pre-installed with Python in most distributions)
