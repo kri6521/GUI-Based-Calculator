@@ -23,14 +23,14 @@ This is a simple calculator built using Python's Tkinter library. It provides a 
   sudo apt-get install python3-tk  # For Linux
 
 ## 🚀 How it works
-### Start the Application:
+### 1. Start the Application:
 - Run the Python script: python calculator.py.
-### Input Numbers:
+### 2. Input Numbers:
 - Use the numeric buttons (0-9) to input numbers.
-### Perform Operations:
+### 3. Perform Operations:
 - Click an operator button (+, -, *, /) after entering the first number.
 - Enter the second number, then press the = button to calculate the result.
-### Clear Input:
+### 4. Clear Input:
 - Press the C button to clear the current input and start fresh.
-### Error Handling:
+### 5. Error Handling:
 - Division by zero will result in an "Error" message displayed on the screen.
